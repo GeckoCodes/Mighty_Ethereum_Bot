@@ -1,3 +1,3 @@
 # Mighty_Ethereum_Bot
 
-### A mighty ethereum bot to capitalise on the Arbritrage between Ethereum Based Currencie.
+### A mighty ethereum bot to capitalise on the Arbritrage between Ethereum Based Currencies.
